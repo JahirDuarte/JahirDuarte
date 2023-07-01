@@ -2,5 +2,10 @@
 
 My name is Jahir, I'm proudly Mexican 🇲🇽 and a passionate Developer 💻
 
-# Languages and frameworks
-https://camo.githubusercontent.com/1fcf7163497dc6a567bd612bce2b937654c04b0c557a75517bdd5d1c17625aad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d4176616e7a61646f2d627269676874677265656e3f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465
+## Languages and frameworks
+![image](https://img.shields.io/badge/Python-Avanzado-brightgreen?style=for-the-badge&logo=python&logoColor=white)
+![image](https://img.shields.io/badge/Django-Avanzado-brightgreen?style=for-the-badge&logo=django&logoColor=white)
+![image](https://img.shields.io/badge/DjangoRest-Avanzado-brightgreen?style=for-the-badge&logo=django&logoColor=white)
+![image](https://img.shields.io/badge/Firebase-Medio-brightgreen?style=for-the-badge&logo=firebase&logoColor=black&labelColor=ffca28)
+![image](https://img.shields.io/badge/GraphQl-Medio-E10098?style=for-the-badge&logo=graphql&logoColor=white&color=yellow&labelColor=E10098)
+![image](https://img.shields.io/badge/React-Medio-yellow?style=for-the-badge&logo=react&logoColor=61DAFB)
