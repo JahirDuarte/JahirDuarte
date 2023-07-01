@@ -7,8 +7,8 @@ My name is Jahir, I'm proudly Mexican 🇲🇽 and a passionate Developer 💻
 ![image](https://img.shields.io/badge/Django-Avanzado-brightgreen?style=for-the-badge&logo=django&logoColor=white)
 ![image](https://img.shields.io/badge/DjangoRest-Medio-brightgreen?style=for-the-badge&logo=django&logoColor=white)
 ![image](https://img.shields.io/badge/React-Basico-yellow?style=for-the-badge&logo=react&logoColor=61DAFB)
-![image](https://img.shields.io/badge/AWS-Basico-yellow?style=for-the-badge&logo=amazon-aws&logoColor=61DAFB)
-![image](https://img.shields.io/badge/DigitalOcean-Basico-yellow?style=for-the-badge&logo=digitalocean&logoColor=0080FF)
+![image](https://img.shields.io/badge/AWS-Medio-brightgreen?style=for-the-badge&logo=amazon-aws&logoColor=61DAFB)
+![image](https://img.shields.io/badge/DigitalOcean-Medio-brightgreen?style=for-the-badge&logo=digitalocean&logoColor=0080FF)
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ### Planification
