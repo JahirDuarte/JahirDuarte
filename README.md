@@ -12,4 +12,4 @@ My name is Jahir, I'm proudly Mexican 🇲🇽 and a passionate Developer 💻
 
 ### Planification
 ![image](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![image](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![image](https://img.shields.io/badge/Asana-0052CC?style=for-the-badge&logo=asana&logoColor=white)
