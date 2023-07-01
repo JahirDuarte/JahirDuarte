@@ -2,7 +2,7 @@
 
 My name is Jahir, I'm proudly Mexican 🇲🇽 and a passionate Developer 💻
 
-## Languages and frameworks
+## My Stack
 ![image](https://img.shields.io/badge/Python-Avanzado-brightgreen?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/Django-Avanzado-brightgreen?style=for-the-badge&logo=django&logoColor=white)
 ![image](https://img.shields.io/badge/DjangoRest-Medio-brightgreen?style=for-the-badge&logo=django&logoColor=white)
